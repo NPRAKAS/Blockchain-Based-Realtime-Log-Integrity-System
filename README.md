@@ -71,7 +71,7 @@ Whenever tampering is detected, the system automatically:
 
 # 🏗 System Architecture
 
-<img src="images/architecture.png">
+<img src="blockchain_log_integrity/images/architecture.jpg">
 
 ---
 
@@ -223,31 +223,31 @@ Any tampering immediately triggers:
 
 ## Ubuntu Monitoring
 
-<img src="images/monitor.png">
+<img src="blockchain_log_integrity/images/monitor.png">
 
 ---
 
 ## Blockchain Ledger
 
-<img src="images/blockchain.png">
+<img src="blockchain_log_integrity/images/blockchain.png">
 
 ---
 
 ## Tamper Detection
 
-<img src="images/tamper.png">
+<img src="blockchain_log_integrity/images/tamper.png">
 
 ---
 
 ## Email Alert
 
-<img src="images/email.png">
+<img src="blockchain_log_integrity/images/email.png">
 
 ---
 
 ## Attack Simulation
 
-<img src="images/kali_attack.png">
+<img src="blockchain_log_integrity/images/kali_attack.png">
 
 ---
 
