@@ -4,7 +4,7 @@
 
 ### A Lightweight Host-Based Blockchain Framework for Secure Linux Log Protection
 
-<img src="images/banner.png" width="900">
+<img src="blockchain_log_integrity/images/banner.png" width="900">
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu)
